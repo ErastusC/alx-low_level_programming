@@ -13,8 +13,8 @@ int main(void)
 
 
 	j = 1;
-	k = 2
-	sum = 0
+	k = 2;
+	sum = 0;
 
 
 	for (i = 1; i <= 33; ++i)
